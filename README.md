@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Vaibhav 👋
 
-<!--
-**vaibhavgoelx/vaibhavgoelx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PM who builds and ships AI agents for enterprise operations: Finance, HR and IT.
 
-Here are some ideas to get you started:
+Senior PM at **Payoneer**, leading HR and People Operations Product for the Employer of Record business. Previously Staff PM at **ServiceNow**, where I launched a conversational AI recruiting co-pilot to $5M+ ARR in six months.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Currently building
+**[awesome-enterprise-ai-agents](https://github.com/vaibhavgoelx/awesome-enterprise-ai-agents)**: open-source AI agents for Finance, HR and IT. Each one ships with a policy file, human approval gates, an audit trail and evals, and runs against a mock company over MCP, so you can try it in five minutes with no real accounts.
+
+#### What I think about
+- What an agent should do on its own, and what needs a human
+- Evals that cover the adversarial cases, not just the happy path
+- Audit trails a CFO or an auditor will accept
+
+[LinkedIn](https://www.linkedin.com/in/vaibhavgoelproduct/)

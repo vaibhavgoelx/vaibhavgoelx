@@ -1,6 +1,6 @@
 ### Hi, I'm Vaibhav 👋
 
-Product Manager who builds and ships AI agents for enterprise operations: Finance, HR and IT.
+Product Manager who builds and ships AI agents for enterprise operations: HR, Finance and IT.
 
 Senior PM at **Payoneer**, leading HR and People Operations Product for the Employer of Record business. Previously Staff PM at **ServiceNow**, where I launched a conversational AI recruiting co-pilot to $5M+ ARR in six months.
 
